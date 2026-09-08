@@ -1,10 +1,11 @@
 import { Link } from "react-router-dom";
 
-import Shell from "../components/Shell";
-import Card from "../components/Card";
-import Back from "../components/Back";
-import Title from "../components/Title";
-import PrimaryButton from "../components/PrimaryButton";
+import Shell from "../Components/Shell";
+import Card from "../Components/Card";
+import Back from "../Components/Back";
+import Title from "../Components/Title";
+import PrimaryButton from "../Components/PrimaryButton";
+
 
 import accountCreatedImg from "../assets/account-created.png";
 
